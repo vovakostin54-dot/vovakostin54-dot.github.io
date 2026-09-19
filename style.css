@@ -15,7 +15,7 @@ nav:has(#menu-checker:checked) #navigation-list {
  top: 3rem;
 }
 header {
-    max-width: 100dvw;
+    max-width: 10dvw;
     display: flex;
     align-items: center;
     padding: 1rem;
